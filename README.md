@@ -1,5 +1,6 @@
 # Prosperity-4
-- Market making, Relative vol trading, Trader IDs (Mark 38), EDA 
+- Market making, Relative vol trading, Trader IDs (Mark 38), EDA, Only vibe-coded visualisations  
+- Learned (specfic to this comp): Importance of EDA, the "right" way is not the "best" way, and speed vs quality+understanding trade-off of vibe-coding is worth given 2 day deadline  
 ![](/eda/09_prod_vol_by_group.png)
 ![](eda/01_individual_pairwise_corr.png)
 ![](eda/oxygen_shake_volatility.png)
