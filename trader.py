@@ -420,7 +420,7 @@ class Voucher(ProductTrader):
         if not ivs:
             return mm
 
-        median_vol = self._vega_weighted_mean(ivs) if VEGA_WEIGHTED else self._get_median(ivs)
+        median_vol = self._vega_weighted_mean(ivs) if VEGA_WEIGHTED else self._get_median(ivs) #tried vol smile, vega-weighted mean, median and individual hisotrical vols (used whatever worked the best using walk-forward testing)
         avg_iv_deviation = 0
 
         all_orders = {}
