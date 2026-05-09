@@ -1,0 +1,4 @@
+Monotonicity: K1 < K2 → C(K1) ≥ C(K2). Violation: C(K1) - C(K2) < 0
+Convexity: K1 < K2 < K3 → C(K1) - 2C(K2) + C(K3) ≥ 0. Violation: < 0
+Lower bound: C(K) < S - K·e^(-rT) → arbitrage
+Upper bound: C(K) > S → arbitrage
