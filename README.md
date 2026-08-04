@@ -8,6 +8,7 @@
 <details>
   <summary>SINDy</summary>
   <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/46b44a13-59ac-4df2-a9ea-a41a462008a3" />
+  <img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/400ebf2c-cd97-4c0d-ba4d-04d55218fb81" />
   <img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/f4b6f332-90b1-4e7c-953c-ea47efb9105e" />
 </details>
 
