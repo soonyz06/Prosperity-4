@@ -1,5 +1,9 @@
 # Prosperity-4
-<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/84436de7-5c3a-4910-b6d0-a195494a6ad0" />
+
+<details>
+  <summary>EDA</summary>
+  <img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/84436de7-5c3a-4910-b6d0-a195494a6ad0" />
+</details>
 
 <details>
   <summary>SINDy</summary>
