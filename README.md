@@ -7,9 +7,9 @@
 
 <details>
   <summary>SINDy</summary>
-  <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/46b44a13-59ac-4df2-a9ea-a41a462008a3" />
-  <img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/400ebf2c-cd97-4c0d-ba4d-04d55218fb81" />
-  <img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/f4b6f332-90b1-4e7c-953c-ea47efb9105e" />
+  <img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/b8a260ec-aee0-4c53-a0c5-870797e6f821" />
+  <img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/86027da6-cb06-4c2d-a012-4ac45bc90c43" />
+  <img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/2dc77576-31f1-4351-885d-a5c2251fa525" />
 </details>
 
 <details>
